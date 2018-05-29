@@ -24,3 +24,4 @@ Planned:
 -> /donate command to let users donate to the foundation from their bot balance
 ---> Idea: How about /rain targets 9 people instead of 10, and the tenth part of the rain is sent to the foundation
 ----> I could have the donate command to count the total donations too, it could look cool
+-> Have the bot send a "ATTENTION TO SCAMMERS" reminder every 2 hours maybe?
