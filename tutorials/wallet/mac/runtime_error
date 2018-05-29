@@ -1,0 +1,4 @@
+You might be using an older MAC version.
+Try to download this wallet: https://github.com/bumbacoin/PeepCoin-TheCoinForThePeople/releases/download/v1000/Peepcoin-Qt-OSX-v1000.dmg
+Open this version, this older wallet will create the wallet.dat. 
+Once it opens, close this wallet and use the newer one you tried previously.
