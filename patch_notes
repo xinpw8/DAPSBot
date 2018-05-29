@@ -6,6 +6,7 @@ Actual cool stuff:
 -> Added the /link command
 -> Added the /tutorial command
 -> Started adapting the bot to the dapscoin bot github repository so content can be dynamically updated by the foundation members
+----> Note: New tutorials are welcomed, you can send them to me (@meteovio) on Telegram
 -> Every coin on CMC can now be requested with /p (<- price command)
 -> You can now reply to a message with /tip (amount) [optional: reason] to tip the person directly
 -> /stake simplified
