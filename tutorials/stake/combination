@@ -1,5 +1,12 @@
+WINDOWS:
 You can use coin controls to combine your amounts, this will require re-maturing your coins for 510 blocks though (about 8 hours) before staking starts again
 settings  - display - "display coin control features (experts only!)"
+then go to your Send Coins section, click "inputs" button
+list mode - tick all coin amounts, click okay
+send to yourself (any of your receiving addresses), copy the "after fee" amount and send that to your address
+
+MAC:
+Click on peepcoin-qt > preferences > display > coin control
 then go to your Send Coins section, click "inputs" button
 list mode - tick all coin amounts, click okay
 send to yourself (any of your receiving addresses), copy the "after fee" amount and send that to your address
