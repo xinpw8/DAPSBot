@@ -10,7 +10,8 @@ Actual cool stuff:
 -> Every coin on CMC can now be requested with /p (<- price command)
 -> You can now reply to a message with /tip (amount) [optional: reason] to tip the person directly
 -> /stake simplified
--> Added a /moonspam command that prompt user to go to the MoonSpam room for price discussions
+-> Added a /prompt command with multiple arguments that sends pre-formatted message (/prompt moonspam, etc.)
+---> prompt list here: https://github.com/DAPScoin/DAPSBot/tree/master/prompts
 
 Less relevant stuff:
 -> New good bot/bad bot lines
