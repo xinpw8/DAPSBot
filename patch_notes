@@ -1,0 +1,12 @@
+-> Added the /channel command
+-> Added the /exchange command
+-> Added the /link command
+-> Added the /tutorial command
+-> Started adapting the bot to the dapscoin bot github repository so content can be dynamically updated
+-> Every coin on CMC can now be requested with /p
+-> You can now reply to a message with /tip (amount) [optional: reason] to tip the person directly
+-> /stake simplified
+
+-> New good bot/bad bot lines
+-> /rain now finally announce who did it, lol
+
