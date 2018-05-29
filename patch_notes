@@ -10,6 +10,7 @@ Actual cool stuff:
 -> Every coin on CMC can now be requested with /p (<- price command)
 -> You can now reply to a message with /tip (amount) [optional: reason] to tip the person directly
 -> /stake simplified
+-> test
 
 Less relevant stuff:
 -> New good bot/bad bot lines
