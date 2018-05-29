@@ -18,5 +18,6 @@ Less relevant stuff:
 -> The bot has now an hourly 8.3% chances of posting a random message
 
 Planned:
--> /info command to show the coin specificities
+-> /info command to show the coin specs.
 -> bringing back the /help command to list the available bot commands
+-> /suggest or /request command so that people can send me suggestion for the bot
