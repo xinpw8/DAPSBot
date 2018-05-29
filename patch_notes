@@ -1,3 +1,6 @@
+May:
+
+Actual cool stuff:
 -> Added the /channel command
 -> Added the /exchange command
 -> Added the /link command
@@ -7,5 +10,7 @@
 -> You can now reply to a message with /tip (amount) [optional: reason] to tip the person directly
 -> /stake simplified
 
+Less relevant stuff:
 -> New good bot/bad bot lines
 -> /rain now finally announce who did it, lol
+-> The bot has now an hourly 8.3% chances of posting a random message
