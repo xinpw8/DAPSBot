@@ -3,6 +3,6 @@ How to get DAPSCoin Bot to send you a private alert of a new stake:
 1. Send a DM message to @dapscoin_bot.  <-- click there
 2. In your wallet go to "Staking" and right click on the amount that's staking and select "copy address input".
 3. Go back to the bot message and type /stake (paste the address here) and send. Example: /stake P9dpHrjEnHrhzjc3uRtMwKccBMSZ3AJA9m
-4. Select [Enabled]
+OPTIONAL 4. Type /stake and select your notification preferences [Enabled], [Muted] or [Disabled]
 
 And voilà! The bot will notify you when you get a staking reward.
